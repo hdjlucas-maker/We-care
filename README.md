@@ -14,7 +14,7 @@ Foi um grande passo na minha jornada, pois consegui entender melhor como estrutu
 - **CSS3**
 
 ## 🌐 Como visualizar
-👉 [Clique aqui para acessar o projeto](https://hdjlucas-maker.github.io/Projeto/)
+👉 [Clique aqui para acessar o projeto](https://hdjlucas-maker.github.io/We-care/)
 
 ## 📸 Demonstração
 (Adicione aqui prints da versão desktop, tablet e mobile para mostrar a responsividade)
